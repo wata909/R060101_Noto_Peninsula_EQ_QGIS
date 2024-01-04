@@ -16,7 +16,21 @@
 
 
 ## 登録データ
-- 編集中です
+- 国土地理院：斜面崩壊・堆積分布データ
+    - https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#2
+- 登記所備付地図（2022年1月公開版）
+    - https://front.geospatial.jp/moj-chizu-xml-readme/
+    - https://habs.rad.naro.go.jp/spatial_data/amxpoly47/
+- 農林水産省筆ポリゴン
+    - https://open.fude.maff.go.jp/
+    - https://habs.rad.naro.go.jp/spatial_data/fudepoly47/
+- 全国Q地図・Q地図タイルAxelGlobe画像
+    - https://info.qchizu.xyz/
+    - https://www.axelglobe.com/ja/the-noto-hanto-earthquake-in-2024
+- 国土地理院空中写真（正射画像）：20240102撮影
+    - https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#4
+- 地理院タイル
+    - https://maps.gsi.go.jp/development/ichiran.html
 
 ## ライセンス
 - 各データのライセンスは、１次データのライセンスに従います。一部データについては、非商用、学術・研究目的等の限定目的でのみ、使用可能となっていますので、ご注意下さい。
