@@ -29,6 +29,11 @@
     - 概要：`国土地理院が1月2日に撮影した空中写真から、令和6年能登半島地震によって生じたと考えられる斜面崩壊箇所及び土砂堆積箇所の範囲について判読したもの`であり、`道路や河川上の土砂は、一部撤去されている可能性`あり
     - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#12/37.434931/137.195206/&base=pale&ls=pale%7C20240102noto_suzu_wazimahigashi_houkaichi&disp=11&lcd=20240102noto_suzu_wazimahigashi_houkaichi&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
     - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html)に従い、出典明示により、転載も含め使用可
+- 空中写真判読による津波浸水域（推定）データ
+    - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#7
+    - 概要：`国土地理院が1月2日に撮影した空中写真（正射画像）・（珠洲地区、輪島東地区）から、令和6年能登半島地震によって生じたと考えられる津波浸水域を判読して作成したもの`であり、`海岸線は空中写真（正射画像）に合わせて取得しており、地形図と整合していない箇所があります`とのこと。
+    - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#11/37.442155/137.212372/&base=std&ls=std%7C20240102noto_suzu_wazimahigashi_0103shinsuii&disp=11&lcd=20240102noto_suzu_wazimahigashi_0103shinsuii&vs=c1g1j0h0k0l0u0t0z0r0s0m0f2&d=m)
+    - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html)に従い、出典明示により、転載も含め使用可
 - 被災地域空中写真（正射画像）：20240102撮影
     - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#4
 - だいち2号」観測データの解析による海岸線の変化
