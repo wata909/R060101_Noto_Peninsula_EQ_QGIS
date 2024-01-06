@@ -97,6 +97,12 @@
     - 概要：`国土地理院によって 被災後に 空から撮影され，web サイトを通して公開されている空中写真（正射画像）を用いて津波浸水範囲を判読`および`被災後に撮影された空中写真を実体視判読`により得られたデータ。[日本地理学会災害対応委員会 令和６年（2024年）能登半島地震](https://ajg-disaster.blogspot.com/2024/01/2024_2.html)にて公開されている海岸線が前進した範囲および判読範囲のgeojsonファイルをFlatgeobuf形式に変換。
     - ライセンス：令和6年能登半島地震変動地形調査グループ（日本地理学会）、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
 
+### shi-works
+- 令和2年簡易100mメッシュ人口データ（石川県、富山県）（FlatGeobuf形式）
+    - 出典：https://github.com/shi-works/noto-hanto-earthquake-2024-100m-mesh-pop-data
+        - 原初データ出典：[地域分析に有用なデータの提供, 地域・交通データ研究所代表（東京大学空間情報科学研究センター客員研究員）西澤明](https://gtfs-gis.jp/teikyo/index.html)
+    - 概要：地域・交通データ研究所にて公開されている令和2年簡易100mメッシュ人口データを、shi-works様がFlatgeobuf形式に変換したデータ。
+    - ライセンス：[西澤明](https://gtfs-gis.jp/teikyo/index.html)、[@shi-works](https://twitter.com/shi__works)、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
 
 ### 独自作成データ
 - 国土数値情報：半島循環道路データ/緊急輸送道路と国土地理院：斜面崩壊・堆積分布データとの交差地点データ
