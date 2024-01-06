@@ -72,14 +72,14 @@
 
 ### 日本地理学会災害対応委員会
 - 海岸地形変化の検討結果（1月5日公開）
-    - 出典：[令和 6 年能登半島地震による海岸地形変化の検討結果（第一報）](http://disaster.ajg.or.jp/files/202401_Noto002.pdf)
-        - 原初データ出典：[国土地理院空中写真（正射画像）]（https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html）
+    - 出典：[令和6年能登半島地震による海岸地形変化の検討結果（第一報）](http://disaster.ajg.or.jp/files/202401_Noto002.pdf)
+        - 原初データ出典：[国土地理院空中写真（正射画像）](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html)
     - 概要：`国土地理院によって 被災後に 空から撮影され，web サイトを通して公開されている空中写真（正射画像）を用いて2024年1月2日の海岸線を判読`したデータ。[日本地理学会災害対応委員会 令和６年（2024年）能登半島地震](https://ajg-disaster.blogspot.com/2024/01/2024_2.html)にて公開されている海岸線が前進した範囲および判読範囲のgeojsonファイルをFlatgeobuf形式に変換。
     - ライセンス：令和6年能登半島地震変動地形調査グループ（日本地理学会）、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
 
 - 津波浸水範囲（1月4日公開）
     - 出典：[令和6年能登半島地震による津波浸水範囲の検討結果（第一報）](http://disaster.ajg.or.jp/files/202401_Noto001.pdf)
-        - 原初データ出典：[国土地理院空中写真（正射画像）]（https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html）
+        - 原初データ出典：[国土地理院空中写真（正射画像）](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html)
     - 概要：`国土地理院によって 被災後に 空から撮影され，web サイトを通して公開されている空中写真（正射画像）を用いて津波浸水範囲を判読`および`被災後に撮影された空中写真を実体視判読`により得られたデータ。[日本地理学会災害対応委員会 令和６年（2024年）能登半島地震](https://ajg-disaster.blogspot.com/2024/01/2024_2.html)にて公開されている海岸線が前進した範囲および判読範囲のgeojsonファイルをFlatgeobuf形式に変換。
     - ライセンス：令和6年能登半島地震変動地形調査グループ（日本地理学会）、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
 
@@ -87,14 +87,14 @@
 ### 独自作成データ
 - 国土数値情報：半島循環道路データ/緊急輸送道路と国土地理院：斜面崩壊・堆積分布データとの交差地点データ
     - 出典：独自作成
-        - 原初データ出典：[国土数値情報・半島循環道路データ]（https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-A37.html）、[国土数値情報・緊急輸送道路データ](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N10-v2_0.html)、[国土地理院：斜面崩壊・堆積分布データ](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#2)
+        - 原初データ出典：[国土数値情報・半島循環道路データ](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-A37.html)、[国土数値情報・緊急輸送道路データ](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N10-v2_0.html)、[国土地理院：斜面崩壊・堆積分布データ](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#2)
     - 概要：国土数値情報の半島循環道路データおよび緊急輸送道路データを融合したデータと、国土地理院：斜面崩壊・堆積分布データのポリゴンをラインに変換したデータが交差した地点を示す点データ。ただし、現状を示しているとは限らない。本手法では、道路の供用が終了しているのにデータに反映されてない場合や、トンネル上に斜面崩壊・堆積分布が発生している場合でも、交差しているとして点データが生成される。
     - ライセンス：原初データの[国土数値情報・非商用](https://nlftp.mlit.go.jp/ksj/other/agreement.html#agree-02)。
 
 ### テンプレート（公開機関）
 - データ名
     - 出典：（ULR）
-        - 原初データ出典：（ULR）
+        - 原初データ出典：ULR
     - 概要：データの概要
         - 参考
             - 参考サイトがあれば追加：[サイト名](URL)
