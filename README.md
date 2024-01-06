@@ -37,10 +37,14 @@
     - 概要：`国土地理院が1月2日に撮影した空中写真（正射画像）・（珠洲地区、輪島東地区）から、令和6年能登半島地震によって生じたと考えられる津波浸水域を判読して作成したもの`であり、`海岸線は空中写真（正射画像）に合わせて取得しており、地形図と整合していない箇所があります`とのこと。
     - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#11/37.442155/137.212372/&base=std&ls=std%7C20240102noto_suzu_wazimahigashi_0103shinsuii&disp=11&lcd=20240102noto_suzu_wazimahigashi_0103shinsuii&vs=c1g1j0h0k0l0u0t0z0r0s0m0f2&d=m)
     - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html)に従い、出典明示により、転載も含め使用可
-- 被災地域空中写真（正射画像）：20240102撮影
+- 被災地域空中写真（正射画像）：珠洲地区、輪島東地区、輪島中地区、20240102撮影
     - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#4
-- 被災地域空中写真（正射画像）：20240105撮影
+   - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#10/37.205573/136.969637/&base=std&ls=std%7C20240102_noto_anamizu_0105do%7C20240102_noto_nanao_0105do%7C20240102_noto_suzu_0105do%7C20240102_noto_wazimanaka_0105do&blend=0000&disp=11111&lcd=20240102_noto_wazimanaka_0105do&vs=c1g1j0h0k0l0u0t0z0r0s0m0f2&d=m)
+    - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/)
+- 被災地域空中写真（正射画像）：珠洲地区、輪島中地区、穴水地区、七尾地区、20240105撮影
     - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#4
+    - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#10/37.205573/136.969637/&base=std&ls=std%7C20240102_noto_anamizu_0105do%7C20240102_noto_nanao_0105do%7C20240102_noto_suzu_0105do%7C20240102_noto_wazimanaka_0105do&blend=0000&disp=11111&lcd=20240102_noto_wazimanaka_0105do&vs=c1g1j0h0k0l0u0t0z0r0s0m0f2&d=m)
+    - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/)
 - だいち2号」観測データの解析による海岸線の変化
     - 出典：https://www.gsi.go.jp/uchusokuchi/20240101noto_pwr.html
     - 概要：`地震前後のSAR強度画像を用いてRGB合成画像を作成し、地震後に生じた陸化した地域（赤色で表現）を抽出`したデータ
