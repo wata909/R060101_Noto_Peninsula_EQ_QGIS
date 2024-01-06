@@ -16,12 +16,15 @@
 本レポジトリで公開しているQGISプロジェクトは、以下の環境でデータを表示できることを確認しています。
 - windows環境
     - Windows10 64bit 
-    - QGIS 3.28 および QGIS 3.34
+    - QGIS 3.28 LTR および QGIS 3.34
+- MacOS 環境
+    - macOS 14.0（23A344） 
+    - QGIS 3.28 LTR
 
 
 ## 登録データ
 
-登録データを公開期間ごとに整理します。
+登録データを公開組織・機関毎に整理。
 
 ### 国土地理院
 - 斜面崩壊・堆積分布データ
@@ -35,6 +38,8 @@
     - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#11/37.442155/137.212372/&base=std&ls=std%7C20240102noto_suzu_wazimahigashi_0103shinsuii&disp=11&lcd=20240102noto_suzu_wazimahigashi_0103shinsuii&vs=c1g1j0h0k0l0u0t0z0r0s0m0f2&d=m)
     - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html)に従い、出典明示により、転載も含め使用可
 - 被災地域空中写真（正射画像）：20240102撮影
+    - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#4
+- 被災地域空中写真（正射画像）：20240105撮影
     - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#4
 - だいち2号」観測データの解析による海岸線の変化
     - 出典：https://www.gsi.go.jp/uchusokuchi/20240101noto_pwr.html
