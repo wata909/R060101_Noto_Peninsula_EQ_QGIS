@@ -70,6 +70,12 @@
     - オリジナルデータ閲覧：[国土数値情報ウェッブマッピングシステム](https://nlftp.mlit.go.jp/webmapc/mapmain.html#12/37.364564/137.030067/&base=std&ls=std%7CN10&disp=11&lcd=N10&vs=c1j0h0k0l0u0t0z0r0s0m0f1&d=vl)
     - ライセンス：[国土数値情報・非商用](https://nlftp.mlit.go.jp/ksj/other/agreement.html#agree-02)。
 
+### 総務省
+- 令和２年国勢調査 町丁・字等境界データ（石川県・富山県）
+    - 出典：[「令和２年国勢調査結果」（総務省）](https://www.e-stat.go.jp/)を加工して作成
+    - 概要：駒澤大学文学部・瀬戸寿一研究室にて，「政府統計の総合窓口(e-Stat)」のデータを基に編集・加工したもの。
+    - ライセンス：[政府標準利用規約（第2.0版）](https://www.e-stat.go.jp/terms-of-use)
+
 ### 法務省
 - 登記所備付地図（2022年1月公開版）
     - 出典：https://front.geospatial.jp/moj-chizu-xml-readme/
@@ -79,6 +85,11 @@
 - 筆ポリゴン
     - 出典：https://open.fude.maff.go.jp/
         - 二次配布元：https://habs.rad.naro.go.jp/spatial_data/fudepoly47/
+- 2020年農林業センサス農業集落境界データ（石川県・富山県）
+    - 出典：[「2020年農林業センサスの農業集落境界データ」（農林水産省統計部）](https://www.maff.go.jp/j/tokei/census/shuraku_data/2020/ma/index.html)を加工して作成
+    - 概要：駒澤大学文学部・瀬戸寿一研究室にて，「地域の農業を見て・知って・活かすDB」のデータを基に編集・加工したもの。
+    - ライセンス：[政府標準利用規約（第2.0版）](https://www.e-stat.go.jp/terms-of-use)
+
 
 ### 全国Ｑ地図
 - 全国Q地図・Q地図タイルAxelGlobe画像
