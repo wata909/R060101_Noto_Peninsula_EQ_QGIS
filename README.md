@@ -75,6 +75,14 @@
     - オリジナルデータ閲覧：[国土数値情報ウェッブマッピングシステム](https://nlftp.mlit.go.jp/webmapc/mapmain.html#12/37.364564/137.030067/&base=std&ls=std%7CN10&disp=11&lcd=N10&vs=c1j0h0k0l0u0t0z0r0s0m0f1&d=vl)
     - ライセンス：[国土数値情報・非商用](https://nlftp.mlit.go.jp/ksj/other/agreement.html#agree-02)。
 
+- 令和6年能登半島地震　能登半島　道路復旧の状況
+    - 出典：https://www.mlit.go.jp/saigai/saigai_240101.html
+    - 概要：国土交通省のWebページ[令和６年能登半島地震における被害と対応について](https://www.mlit.go.jp/saigai/saigai_240101.html)にて公開されている「被害状況位置図等」の「令和6年能登半島地震　能登半島　道路復旧の状況」について、幾何補正をおこなったもの。なお、元画像が小縮尺であり、拡大した場合の情報の位置精度は不正確である。
+    - オリジナルデータ閲覧：
+        - [2024年1月7日：被害状況位置図等](https://www.mlit.go.jp/common/001716781.pdf)
+        - [2024年1月8日：被害状況位置図等](https://www.mlit.go.jp/common/001716804.pdf)
+    - ライセンス：[リンク・著作権・免責事項（政府標準利用規約（第2.0版）準拠）](https://nlftp.mlit.go.jp/ksj/other/agreement.html#agree-02)。
+
 ### 総務省
 - 令和２年国勢調査 町丁・字等境界データ（石川県・富山県）
     - 出典：[「令和２年国勢調査結果」（総務省）](https://www.e-stat.go.jp/)を加工して作成
