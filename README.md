@@ -48,7 +48,7 @@
     - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html)に従い、出典明示により、転載も含め使用可
 - 被災地域空中写真（正射画像）：珠洲地区、輪島東地区、輪島中地区、20240102撮影
     - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#4
-   - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#10/37.205573/136.969637/&base=std&ls=std%7C20240102_noto_anamizu_0105do%7C20240102_noto_nanao_0105do%7C20240102_noto_suzu_0105do%7C20240102_noto_wazimanaka_0105do&blend=0000&disp=11111&lcd=20240102_noto_wazimanaka_0105do&vs=c1g1j0h0k0l0u0t0z0r0s0m0f2&d=m)
+    - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#10/37.205573/136.969637/&base=std&ls=std%7C20240102_noto_anamizu_0105do%7C20240102_noto_nanao_0105do%7C20240102_noto_suzu_0105do%7C20240102_noto_wazimanaka_0105do&blend=0000&disp=11111&lcd=20240102_noto_wazimanaka_0105do&vs=c1g1j0h0k0l0u0t0z0r0s0m0f2&d=m)
     - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/)
 - 被災地域空中写真（正射画像）：珠洲地区、輪島中地区、穴水地区、七尾地区、20240105撮影
     - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#4
@@ -110,6 +110,12 @@
     - 概要：駒澤大学文学部・瀬戸寿一研究室にて，「地域の農業を見て・知って・活かすDB」のデータを基に編集・加工したもの。
     - ライセンス：[政府標準利用規約（第2.0版）](https://www.e-stat.go.jp/terms-of-use)
 
+### 国立研究開発法人 森林研究・整備機構 森林総合研究所
+- 森林土壌デジタルマップ・CS立体図（能登半島）
+    - 出典：https://www2.ffpri.go.jp/soilmap/index1.html?page=3
+    - 概要：`デジタル標高データから計算される曲率（Curvature）、傾斜（Slope）の情報を色調を変えて重ね合わせることにより、視覚的・直感的に地形判読を可能とした`CS立体図を閲覧できる。`作成に利用した標高データは災害前(2020-2023)に取得されたもの`である。
+    - オリジナルデータ閲覧：[CS立体図（ズームレベル1～17）](https://www2.ffpri.go.jp/soilmap/index1.html?page=3)
+    - ライセンス：[森林土壌デジタルマップ・利用規約](https://www2.ffpri.go.jp/soilmap/)参照。
 
 ### 全国Ｑ地図
 - 全国Q地図・Q地図タイルAxelGlobe画像
