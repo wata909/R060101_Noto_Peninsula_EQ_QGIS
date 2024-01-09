@@ -82,8 +82,11 @@
     - 出典：https://www.mlit.go.jp/saigai/saigai_240101.html
     - 概要：国土交通省のWebページ[令和６年能登半島地震における被害と対応について](https://www.mlit.go.jp/saigai/saigai_240101.html)にて公開されている「被害状況位置図等」の「令和6年能登半島地震　能登半島　道路復旧の状況」について、幾何補正をおこなったもの。なお、元画像が小縮尺であり、拡大した場合の情報の位置精度は不正確である。
     - オリジナルデータ閲覧：
-        - [2024年1月7日：被害状況位置図等](https://www.mlit.go.jp/common/001716781.pdf)
         - [2024年1月8日：被害状況位置図等](https://www.mlit.go.jp/common/001716804.pdf)
+        - [2024年1月7日：被害状況位置図等](https://www.mlit.go.jp/common/001716781.pdf)
+        - [2024年1月6日：被害状況位置図等](https://www.mlit.go.jp/common/001716765.pdf)
+        - [2024年1月5日：被害状況位置図等](https://www.mlit.go.jp/common/001716604.pdf)
+
     - ライセンス：[リンク・著作権・免責事項（政府標準利用規約（第2.0版）準拠）](https://nlftp.mlit.go.jp/ksj/other/agreement.html#agree-02)。
 
 ### 総務省
@@ -113,16 +116,29 @@
         - 原初データ出典：https://www.axelglobe.com/ja/the-noto-hanto-earthquake-in-2024
 
 ### 日本地理学会災害対応委員会
-- 海岸地形変化の検討結果（1月5日公開）
+- 海岸地形変化の検討結果（第一報）
     - 出典：[令和6年能登半島地震による海岸地形変化の検討結果（第一報）](http://disaster.ajg.or.jp/files/202401_Noto002.pdf)
         - 原初データ出典：[国土地理院空中写真（正射画像）](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html)
     - 概要：`国土地理院によって 被災後に 空から撮影され，web サイトを通して公開されている空中写真（正射画像）を用いて2024年1月2日の海岸線を判読`したデータ。[日本地理学会災害対応委員会 令和６年（2024年）能登半島地震](https://ajg-disaster.blogspot.com/2024/01/2024_2.html)にて公開されている海岸線が前進した範囲および判読範囲のgeojsonファイルをFlatgeobuf形式に変換。
     - ライセンス：令和6年能登半島地震変動地形調査グループ（日本地理学会）、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
 
-- 津波浸水範囲（1月4日公開）
+- 海岸地形変化の検討結果（第二報）
+    - 出典：[令和6年能登半島地震による海岸地形変化の検討結果（第二報）](http://disaster.ajg.or.jp/files/202401_Noto004.pdf)
+        - 原初データ出典：[国土地理院空中写真（正射画像）](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html)
+        - 原初データ出典：[Axelspace社衛星画像](https://www.axelglobe.com/ja/the-noto-hanto-earthquake-in-2024)
+    - 概要：`国土地理院によって被災後に上空から撮影され，webサイトを通して公開されている画像と，Axelspace社の衛星が1月2日に撮像し，webサイトを通して提供している画像データを用いて2024年1月1日の地震後の海岸線を判読`したデータ。[日本地理学会災害対応委員会 令和６年（2024年）能登半島地震](https://ajg-disaster.blogspot.com/2024/01/2024_2.html)にて公開されている海岸線が前進した範囲および判読範囲のgeojsonファイルをFlatgeobuf形式に変換。
+    - ライセンス：令和6年能登半島地震変動地形調査グループ（日本地理学会）、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
+
+- 津波浸水範囲（第二報）
     - 出典：[令和6年能登半島地震による津波浸水範囲の検討結果（第一報）](http://disaster.ajg.or.jp/files/202401_Noto001.pdf)
         - 原初データ出典：[国土地理院空中写真（正射画像）](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html)
-    - 概要：`国土地理院によって 被災後に 空から撮影され，web サイトを通して公開されている空中写真（正射画像）を用いて津波浸水範囲を判読`および`被災後に撮影された空中写真を実体視判読`により得られたデータ。[日本地理学会災害対応委員会 令和６年（2024年）能登半島地震](https://ajg-disaster.blogspot.com/2024/01/2024_2.html)にて公開されている海岸線が前進した範囲および判読範囲のgeojsonファイルをFlatgeobuf形式に変換。
+    - 概要：`国土地理院によって被災後に空から撮影され，webサイトを通して公開されている空中写真（正射画像）を用いて津波浸水範囲を判読`および`被災後に撮影された空中写真を実体視判読`により得られたデータ。[日本地理学会災害対応委員会 令和６年（2024年）能登半島地震](https://ajg-disaster.blogspot.com/2024/01/2024_2.html)にて公開されている海岸線が前進した範囲および判読範囲のgeojsonファイルをFlatgeobuf形式に変換。
+    - ライセンス：令和6年能登半島地震変動地形調査グループ（日本地理学会）、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
+
+- 津波浸水範囲（第二報）
+    - 出典：[令和6年能登半島地震による津波浸水範囲の検討結果（第二報）](http://disaster.ajg.or.jp/files/202401_Noto003.pdf)
+        - 原初データ出典：[国土地理院空中写真（正射画像）](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html)
+    - 概要：`国土地理院によって地震後に上空から撮影され，webサイトを通して公開されている空中写真（垂直写真）を用いて津波浸水範囲を実体視判読`により得られたデータ。`判読範囲は，第一報の珠洲市南部正院町から宝立町までの範囲に加え，能登半島の北岸にあたる，輪島市光浦町から珠洲市三崎町寺家までの海岸線の延長約50kmの地域`。[日本地理学会災害対応委員会 令和６年（2024年）能登半島地震](https://ajg-disaster.blogspot.com/2024/01/2024_2.html)にて公開されている海岸線が前進した範囲および判読範囲のgeojsonファイルおよびShapeFileをFlatgeobuf形式に変換。
     - ライセンス：令和6年能登半島地震変動地形調査グループ（日本地理学会）、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
 
 ### shi-works
