@@ -122,24 +122,18 @@
     - 出典：https://info.qchizu.xyz/
         - 原初データ出典：https://www.axelglobe.com/ja/the-noto-hanto-earthquake-in-2024
 
+
 ### 日本地理学会災害対応委員会
+- 海岸地形変化の検討結果（第二報）
+    - 出典：[令和6年能登半島地震による海岸地形変化の検討結果（第二報）](http://disaster.ajg.or.jp/files/202401_Noto004.pdf)
+        - 原初データ出典：[国土地理院空中写真（正射画像）](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html)、[Axelspace社衛星画像](https://www.axelglobe.com/ja/the-noto-hanto-earthquake-in-2024)
+    - 概要：`国土地理院によって被災後に上空から撮影され，webサイトを通して公開されている画像と，Axelspace社の衛星が1月2日に撮像し，webサイトを通して提供している画像データを用いて2024年1月1日の地震後の海岸線を判読`したデータ。[日本地理学会災害対応委員会 令和６年（2024年）能登半島地震](https://ajg-disaster.blogspot.com/2024/01/2024_2.html)にて公開されている海岸線が前進した範囲および判読範囲のgeojsonファイルをFlatgeobuf形式に変換。
+    - ライセンス：令和6年能登半島地震変動地形調査グループ（日本地理学会）、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
+
 - 海岸地形変化の検討結果（第一報）
     - 出典：[令和6年能登半島地震による海岸地形変化の検討結果（第一報）](http://disaster.ajg.or.jp/files/202401_Noto002.pdf)
         - 原初データ出典：[国土地理院空中写真（正射画像）](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html)
     - 概要：`国土地理院によって 被災後に 空から撮影され，web サイトを通して公開されている空中写真（正射画像）を用いて2024年1月2日の海岸線を判読`したデータ。[日本地理学会災害対応委員会 令和６年（2024年）能登半島地震](https://ajg-disaster.blogspot.com/2024/01/2024_2.html)にて公開されている海岸線が前進した範囲および判読範囲のgeojsonファイルをFlatgeobuf形式に変換。
-    - ライセンス：令和6年能登半島地震変動地形調査グループ（日本地理学会）、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
-
-- 海岸地形変化の検討結果（第二報）
-    - 出典：[令和6年能登半島地震による海岸地形変化の検討結果（第二報）](http://disaster.ajg.or.jp/files/202401_Noto004.pdf)
-        - 原初データ出典：[国土地理院空中写真（正射画像）](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html)
-        - 原初データ出典：[Axelspace社衛星画像](https://www.axelglobe.com/ja/the-noto-hanto-earthquake-in-2024)
-    - 概要：`国土地理院によって被災後に上空から撮影され，webサイトを通して公開されている画像と，Axelspace社の衛星が1月2日に撮像し，webサイトを通して提供している画像データを用いて2024年1月1日の地震後の海岸線を判読`したデータ。[日本地理学会災害対応委員会 令和６年（2024年）能登半島地震](https://ajg-disaster.blogspot.com/2024/01/2024_2.html)にて公開されている海岸線が前進した範囲および判読範囲のgeojsonファイルをFlatgeobuf形式に変換。
-    - ライセンス：令和6年能登半島地震変動地形調査グループ（日本地理学会）、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
-
-- 津波浸水範囲（第一報）
-    - 出典：[令和6年能登半島地震による津波浸水範囲の検討結果（第一報）](http://disaster.ajg.or.jp/files/202401_Noto001.pdf)
-        - 原初データ出典：[国土地理院空中写真（正射画像）](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html)
-    - 概要：`国土地理院によって被災後に空から撮影され，webサイトを通して公開されている空中写真（正射画像）を用いて津波浸水範囲を判読`および`被災後に撮影された空中写真を実体視判読`により得られたデータ。[日本地理学会災害対応委員会 令和６年（2024年）能登半島地震](https://ajg-disaster.blogspot.com/2024/01/2024_2.html)にて公開されている海岸線が前進した範囲および判読範囲のgeojsonファイルをFlatgeobuf形式に変換。
     - ライセンス：令和6年能登半島地震変動地形調査グループ（日本地理学会）、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
 
 - 津波浸水範囲（第二報）
@@ -148,12 +142,25 @@
     - 概要：`国土地理院によって地震後に上空から撮影され，webサイトを通して公開されている空中写真（垂直写真）を用いて津波浸水範囲を実体視判読`により得られたデータ。`判読範囲は，第一報の珠洲市南部正院町から宝立町までの範囲に加え，能登半島の北岸にあたる，輪島市光浦町から珠洲市三崎町寺家までの海岸線の延長約50kmの地域`。[日本地理学会災害対応委員会 令和６年（2024年）能登半島地震](https://ajg-disaster.blogspot.com/2024/01/2024_2.html)にて公開されている海岸線が前進した範囲および判読範囲のgeojsonファイルおよびShapeFileをFlatgeobuf形式に変換。
     - ライセンス：令和6年能登半島地震変動地形調査グループ（日本地理学会）、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
 
+- 津波浸水範囲（第一報）
+    - 出典：[令和6年能登半島地震による津波浸水範囲の検討結果（第一報）](http://disaster.ajg.or.jp/files/202401_Noto001.pdf)
+        - 原初データ出典：[国土地理院空中写真（正射画像）](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html)
+    - 概要：`国土地理院によって被災後に空から撮影され，webサイトを通して公開されている空中写真（正射画像）を用いて津波浸水範囲を判読`および`被災後に撮影された空中写真を実体視判読`により得られたデータ。[日本地理学会災害対応委員会 令和６年（2024年）能登半島地震](https://ajg-disaster.blogspot.com/2024/01/2024_2.html)にて公開されている海岸線が前進した範囲および判読範囲のgeojsonファイルをFlatgeobuf形式に変換。
+    - ライセンス：令和6年能登半島地震変動地形調査グループ（日本地理学会）、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
+
 ### shi-works
 - 令和2年簡易100mメッシュ人口データ（石川県、富山県）（FlatGeobuf形式）
     - 出典：https://github.com/shi-works/noto-hanto-earthquake-2024-100m-mesh-pop-data
         - 原初データ出典：[地域分析に有用なデータの提供, 地域・交通データ研究所代表（東京大学空間情報科学研究センター客員研究員）西澤明](https://gtfs-gis.jp/teikyo/index.html)
     - 概要：地域・交通データ研究所にて公開されている令和2年簡易100mメッシュ人口データを、shi-works様がFlatgeobuf形式に変換したデータ。
     - ライセンス：[西澤明](https://gtfs-gis.jp/teikyo/index.html)、[@shi-works](https://twitter.com/shi__works)、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
+
+### 東京大学渡邉英徳研究室
+- SAR image tilesets of Noto Peninsula earthquake 2024
+    - 出典：https://github.com/wtnv-lab/20240102_Noto_Earthquake_SAR_Umbra/
+        - 原初データ出典：[Umbra Open Data Program](https://umbra.space/open-data), [Noto Peninsula Earthquake](http://umbra-open-data-catalog.s3-website.us-west-2.amazonaws.com/?prefix=sar-data/tasks/ad%20hoc/Noto%20Peninsula%20Earthquake/)
+    - 概要：[Umbra Open Data Program](https://umbra.space/open-data)にて公開されている [Noto Peninsula Earthquake](http://umbra-open-data-catalog.s3-website.us-west-2.amazonaws.com/?prefix=sar-data/tasks/ad%20hoc/Noto%20Peninsula%20Earthquake/)を、[東京大学渡邉英徳研究室](https://labo.wtnv.jp/)にてXYZタイルに変換したもの。
+    - ライセンス：[Umbra Open Data Program](https://umbra.space/open-data)、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
 
 ### 独自作成データ
 - 国土数値情報：半島循環道路データ/緊急輸送道路と国土地理院：斜面崩壊・堆積分布データとの交差地点データ
