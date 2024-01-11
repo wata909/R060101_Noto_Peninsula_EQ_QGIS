@@ -109,6 +109,17 @@
     - 出典：[「2020年農林業センサスの農業集落境界データ」（農林水産省統計部）](https://www.maff.go.jp/j/tokei/census/shuraku_data/2020/ma/index.html)を加工して作成
     - 概要：駒澤大学文学部・瀬戸寿一研究室にて，「地域の農業を見て・知って・活かすDB」のデータを基に編集・加工したもの。
     - ライセンス：[政府標準利用規約（第2.0版）](https://www.e-stat.go.jp/terms-of-use)
+- 農業用ため池一覧（令和5年3月末時点）
+    - 出典：https://www.maff.go.jp/j/nousin/bousai/bousai_saigai/b_tameike/ichiran.html
+    - 概要：`令和5年3月末時点において、ため池防災支援システムに登録されている農業用ため池の一覧`。[農業用ため池一覧（令和5年3月末時点）
+](https://www.maff.go.jp/j/nousin/bousai/bousai_saigai/b_tameike/ichiran.html)において公開されている[・分割版2（関東地方、北陸地方、東海地方）]をFlatgeobuf形式に変換したもの。データのうち、関東地方、北陸地方、東海地方にプロットされないものは除いている。
+    - ライセンス：[農林水産省Webサイトのコンテンツの利用について](https://www.maff.go.jp/j/use/link.html)、政府標準利用規約（第2.0版）に準拠。
+
+### 石川県
+- 石川県ドクターヘリ ランデブーポイント一覧(R5.12.4時点)
+    - 出典：https://www.pref.ishikawa.lg.jp/iryou/support/documents/20231204rp.pdf
+    - 概要：概要：平時の各自治体設定、石川県集約のドクターヘリ ランデブーポイント一覧。Webで施設を検索し、住所などから位置特定。廃止施設なども含め、終えるところまで追って特定したため施設レベルでは間違いは少ないと考えるが、施設内/周辺の複数の空き地に対する特定は間違っている可能性あり。修正歓迎。
+    - ライセンス：ライセンス：石川県、Code for History、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)。
 
 ### 国立研究開発法人 森林研究・整備機構 森林総合研究所
 - 森林土壌デジタルマップ・CS立体図（能登半島）
