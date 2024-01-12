@@ -198,6 +198,14 @@
         - 注意：本手法により得られた点は、現状を示しているとは限らない。本手法では、道路の供用が終了しているのにデータに反映されてない場合や、トンネル上に斜面崩壊・堆積分布が発生している場合でも、交差しているとして点データが生成される。
     - ライセンス：原初データの[国土数値情報・非商用](https://nlftp.mlit.go.jp/ksj/other/agreement.html#agree-02)。
 
+### Code for Kanazawa
+- 能登半島地震コネクトマップ接続データ
+    - 出典：https://noto-earthquake-conmap.glide.page/dl/d0a5f4
+        - [connectmap20240110](https://docs.google.com/spreadsheets/d/1YiCXlyatvbKMAkK8mhKShk-46YsXTcP_M4-B7icOiV4/edit#gid=1372968018)
+    - 概要：[能登半島地震コネクトマップ](https://noto-earthquake-conmap.glide.page/dl/d0a5f4)により収集された、携帯電話の接続可能地点のデータ。
+    - オリジナルデータ閲覧：[つながる場所マップ](https://noto-earthquake-conmap.glide.page/dl/74c4fe)
+    - ライセンス：[けん at 石川県シビックテック](https://twitter.com/kenchif), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
+
 ## データ追加用テンプレート
 
 プロジェクトファイルに追加する情報をご提供頂ける場合、以下のテンプレートに関する情報をissueにてお知ら下さい。
