@@ -201,7 +201,7 @@
 ### Code for Kanazawa
 - 能登半島地震コネクトマップ接続データ
     - 出典：https://noto-earthquake-conmap.glide.page/dl/d0a5f4
-        - [connectmap20240110](https://docs.google.com/spreadsheets/d/1YiCXlyatvbKMAkK8mhKShk-46YsXTcP_M4-B7icOiV4/edit#gid=1372968018)
+        - [opendata-r6-noto-earthquake-connectmap](https://docs.google.com/spreadsheets/d/1xskRsEzUs9aaOs6g0MIFU_SeYMXHF-yB0ZQUA5A2UXs/edit#gid=1372968018)
     - 概要：[能登半島地震コネクトマップ](https://noto-earthquake-conmap.glide.page/dl/d0a5f4)により収集された、携帯電話の接続可能地点のデータ。
     - オリジナルデータ閲覧：[つながる場所マップ](https://noto-earthquake-conmap.glide.page/dl/74c4fe)
     - ライセンス：[けん at 石川県シビックテック](https://twitter.com/kenchif), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
