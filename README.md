@@ -205,14 +205,6 @@
     - 概要：[Umbra Open Data Program](https://umbra.space/open-data)にて公開されている [Noto Peninsula Earthquake](http://umbra-open-data-catalog.s3-website.us-west-2.amazonaws.com/?prefix=sar-data/tasks/ad%20hoc/Noto%20Peninsula%20Earthquake/)を、[東京大学渡邉英徳研究室](https://labo.wtnv.jp/)にてXYZタイルに変換したもの。[Noto Peninsula Earthquake](http://umbra-open-data-catalog.s3-website.us-west-2.amazonaws.com/?prefix=sar-data/tasks/ad%20hoc/Noto%20Peninsula%20Earthquake/)Cloud Optimzed GeoTiff形式のデータを直接読み込むプロジェクトファイルは、[R060101_Noto_Peninsula_EQ_UnbraSAR_OD.qgz](./R060101_Noto_Peninsula_EQ_UnbraSAR_OD.qgz)に準備。
     - ライセンス：[Umbra Open Data Program](https://umbra.space/open-data)、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
 
-### 独自作成データ
-- 国土数値情報：半島循環道路データ/緊急輸送道路と国土地理院：斜面崩壊・堆積分布データとの交差地点データ
-    - 出典：独自作成
-        - 原初データ出典：[国土数値情報・半島循環道路データ](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-A37.html)、[国土数値情報・緊急輸送道路データ](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N10-v2_0.html)、[国土地理院：斜面崩壊・堆積分布データ](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#2)
-    - 概要：国土数値情報の半島循環道路データおよび緊急輸送道路データを融合したデータと、国土地理院：斜面崩壊・堆積分布データのポリゴンをラインに変換したデータが交差した地点を示す点データ。[国土地理院：斜面崩壊・堆積分布データ](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#2)については、1月3日更新分と1月6日更新分の二つを使用している。
-        - 注意：本手法により得られた点は、現状を示しているとは限らない。本手法では、道路の供用が終了しているのにデータに反映されてない場合や、トンネル上に斜面崩壊・堆積分布が発生している場合でも、交差しているとして点データが生成される。
-    - ライセンス：原初データの[国土数値情報・非商用](https://nlftp.mlit.go.jp/ksj/other/agreement.html#agree-02)。
-
 ### Code for Kanazawa
 - 能登半島地震コネクトマップ接続データ
     - 出典：https://noto-earthquake-conmap.glide.page/dl/d0a5f4
@@ -220,6 +212,21 @@
     - 概要：[能登半島地震コネクトマップ](https://noto-earthquake-conmap.glide.page/dl/d0a5f4)により収集された、携帯電話の接続可能地点のデータ。
     - オリジナルデータ閲覧：[つながる場所マップ](https://noto-earthquake-conmap.glide.page/dl/74c4fe)
     - ライセンス：[けん at 石川県シビックテック](https://twitter.com/kenchif), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
+
+### pikkarin
+- 令和6年能登半島地震 石川県七尾市避難所開設情報GISデータ
+    - 出典：https://github.com/raokiey/R06-Noto-Peninsula-EQ-open-shelter-Nanao
+        - 原初データ出典：七尾市「[避難所一覧/開設中の避難所状況](https://www.city.nanao.lg.jp/bosai/mail/202401021200.html)」、石川県「[指定緊急避難所一覧](https://www.pref.ishikawa.lg.jp/opendata/shakaikiban_index.html)」、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)、七尾市「[10_指定緊急避難所施設一覧](https://www.city.nanao.lg.jp/koho/shise/koho/opendata/index.html)」、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
+    - 概要：`石川県七尾市のWebサイトにて公開されている[開設中の避難所情報](https://www.city.nanao.lg.jp/bosai/mail/202401021200.html)を石川県および七尾市が公開しているオープンデータをもとに位置情報などを付加して、GISデータ化したデータ`。[データ作成処理の定期実行（1時間毎）により、七尾市のWebサイト更新があった際に最新情報に更新される見込み]。`避難所によっては集計時間が異なることがあります。（七尾市Webサイトより）`。間違いがあった場合、[Xのアカウント、@ra0kley](https://twitter.com/ra0kley/)などへ連絡。
+    - ライセンス：pikkarin, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
+
+### 独自作成データ
+- 国土数値情報：半島循環道路データ/緊急輸送道路と国土地理院：斜面崩壊・堆積分布データとの交差地点データ
+    - 出典：独自作成
+        - 原初データ出典：[国土数値情報・半島循環道路データ](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-A37.html)、[国土数値情報・緊急輸送道路データ](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N10-v2_0.html)、[国土地理院：斜面崩壊・堆積分布データ](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#2)
+    - 概要：国土数値情報の半島循環道路データおよび緊急輸送道路データを融合したデータと、国土地理院：斜面崩壊・堆積分布データのポリゴンをラインに変換したデータが交差した地点を示す点データ。[国土地理院：斜面崩壊・堆積分布データ](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#2)については、1月3日更新分と1月6日更新分の二つを使用している。
+        - 注意：本手法により得られた点は、現状を示しているとは限らない。本手法では、道路の供用が終了しているのにデータに反映されてない場合や、トンネル上に斜面崩壊・堆積分布が発生している場合でも、交差しているとして点データが生成される。
+    - ライセンス：原初データの[国土数値情報・非商用](https://nlftp.mlit.go.jp/ksj/other/agreement.html#agree-02)。
 
 ## データ追加用テンプレート
 
