@@ -36,16 +36,25 @@
     - 概要：`国土地理院が1月2日に撮影した空中写真から、令和6年能登半島地震によって生じたと考えられる斜面崩壊箇所及び土砂堆積箇所の範囲について判読したもの`であり、`道路や河川上の土砂は、一部撤去されている可能性`あり。
     - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#12/37.434931/137.195206/&base=pale&ls=pale%7C20240102noto_suzu_wazimahigashi_houkaichi&disp=11&lcd=20240102noto_suzu_wazimahigashi_houkaichi&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
     - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html)に従い、出典明示により、転載も含め使用可
+
 - 斜面崩壊・堆積分布データ（2024年1月6日更新分）
     - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#2
     - 概要：`国土地理院が1月2日及び1月5日に撮影した空中写真（珠洲地区、輪島東地区、輪島中地区、穴水地区）から、令和6年能登半島地震によって生じたと考えられる斜面崩壊箇所及び土砂堆積箇所の範囲について判読したもの`であり、`道路や河川上の土砂は、一部撤去されている可能性`あり。
     - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#11/37.362517/137.070236/&base=std&ls=std%7C20240106noto_wazimanaka_houkaichi%7C20240106noto_anamizu_houkaichi%7C20240106noto_suzu_wazimahigashi_houkaichi&disp=1111&lcd=20240106noto_suzu_wazimahigashi_houkaichi&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
     - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html)に従い、出典明示により、転載も含め使用可
+
 - 斜面崩壊・堆積分布データ（2024年1月9日更新分）
     - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#2
     - 概要：`国土地理院が1月2日及び1月5日に撮影した空中写真（正射画像）・（珠洲地区、輪島東地区、輪島中地区、穴水地区、七尾地区）から、令和6年能登半島地震によって生じたと考えられる斜面崩壊地及び土砂堆積箇所の範囲について判読（一部は再度判読）したもの`であり、`道路や河川上の土砂は、一部撤去されている可能性`あり。
         - 注意事項：`穴水地区及び七尾地区は、1月5日に撮影した空中写真（正射画像）のみを用いて判読`、`珠洲地区及び輪島中地区は、1月2日及び1月5日に撮影した空中写真（正射画像）を用いて、再度判読`
     - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#11/37.362517/137.070236/&base=std&ls=std%7C20240106noto_wazimanaka_houkaichi%7C20240106noto_anamizu_houkaichi%7C20240106noto_suzu_wazimahigashi_houkaichi&disp=1111&lcd=20240106noto_suzu_wazimahigashi_houkaichi&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
+    - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html)に従い、出典明示により、転載も含め使用可
+
+- 斜面崩壊・堆積分布データ（2024年1月12日更新分）
+    - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#2
+    - 概要：`国土地理院が1月2日、5日及び11日に撮影した空中写真（正射画像）・（珠洲地区、輪島東地区、輪島中地区、穴水地区、七尾地区、輪島西地区）から、令和6年能登半島地震によって生じたと考えられる斜面崩壊地及び土砂堆積箇所の範囲について判読（一部は再度判読）したもの`であり、`道路や河川上の土砂は、一部撤去されている可能性`あり。
+        - 注意事項：`穴水地区及び七尾地区は、1月5日に撮影した空中写真（正射画像）のみを用いて判読`、`珠洲地区及び輪島中地区は、1月2日及び1月5日に撮影した空中写真（正射画像）を用いて、再度判読`、`輪島西地区は、1月11日に撮影した空中写真（正射画像）を用いて判読`。
+    - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#11/37.292355/136.912994/&base=std&ls=std%7C20240112noto_wazimanishi_houkaichi&disp=11&lcd=20240112noto_wazimanishi_houkaichi&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
     - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html)に従い、出典明示により、転載も含め使用可
 
 - 空中写真判読による津波浸水域（推定）
@@ -60,7 +69,11 @@
     - オリジナルデータ閲覧：[地理院地図]https://maps.gsi.go.jp/#13/37.480443/137.341805/&base=std&ls=std%7C20240106noto_suzu_wazimahigashi_0103shinsuii%7C20240106noto_anamizu_0110shinsuii%7C20240109noto_nanao_0110shinsuii&disp=1111&lcd=20240109noto_nanao_0110shinsuii&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
     - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html)に従い、出典明示により、転載も含め使用可
 
-
+- 空中写真判読による津波浸水域（推定）（1月12日更新）
+    - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#7
+    - 概要：`国土地理院が1月2日及び1月5日、1月11日に撮影した空中写真（珠洲地区、輪島東地区、穴水地区、七尾地区、輪島西地区）から、令和6年能登半島地震によって生じたと考えられる津波到達範囲（堤外地を含む）を判読（一部を再判読）して作成したもの`であり、`海岸線は空中写真（正射画像）に合わせて取得しており、地形図と整合していない箇所があります`とのこと。
+    - オリジナルデータ閲覧：[地理院地図]https://maps.gsi.go.jp/#11/37.264217/136.784592/&base=std&ls=std%7C20240112noto_wazimanishi_0112shinsuii%7C20240106noto_suzu_wazimahigashi_0103shinsuii%7C20240106noto_anamizu_0110shinsuii%7C20240109noto_nanao_0110shinsuii&disp=11111&lcd=20240109noto_nanao_0110shinsuii&vs=c1g1j0h0k0l0u0t0z0r0s0m0f2&d=m)
+    - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html)に従い、出典明示により、転載も含め使用可
 
 - 被災地域空中写真（正射画像）：珠洲地区、輪島東地区、輪島中地区、20240102撮影
     - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#4
