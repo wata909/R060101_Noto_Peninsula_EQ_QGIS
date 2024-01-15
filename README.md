@@ -175,6 +175,12 @@
     - ライセンス：[森林土壌デジタルマップ・利用規約](https://www2.ffpri.go.jp/soilmap/)参照。
 
 ### 日本地理学会災害対応委員会
+- 海岸地形変化の検討結果（第三報）
+    - 出典：[令和6年能登半島地震による海岸地形変化の検討結果（第三報）](http://disaster.ajg.or.jp/files/202401_Noto008.pdf)
+        - 原初データ出典：[国土地理院空中写真（正射画像）](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html)、[Axelspace社衛星画像](https://www.axelglobe.com/ja/the-noto-hanto-earthquake-in-2024)
+    - 概要：`国土地理院によって被災後に上空から撮影され，webサイトを通して公開されている画像と，Axelspace社の衛星が1月2日に撮像し，webサイトを通して提供している画像データを用いて2024年1月1日の地震後の海岸線を判読`したデータ。[日本地理学会災害対応委員会 令和６年（2024年）能登半島地震](https://ajg-disaster.blogspot.com/2024/01/2024_2.html)にて公開されている海岸地形変化の検討結果および判読範囲のgeojsonファイルをFlatgeobuf形式に変換。
+    - ライセンス：令和6年能登半島地震変動地形調査グループ（日本地理学会）、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
+
 - 海岸地形変化の検討結果（第二報）
     - 出典：[令和6年能登半島地震による海岸地形変化の検討結果（第二報）](http://disaster.ajg.or.jp/files/202401_Noto004.pdf)
         - 原初データ出典：[国土地理院空中写真（正射画像）](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html)、[Axelspace社衛星画像](https://www.axelglobe.com/ja/the-noto-hanto-earthquake-in-2024)
