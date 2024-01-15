@@ -232,12 +232,31 @@
     - オリジナルデータ閲覧：[つながる場所マップ](https://noto-earthquake-conmap.glide.page/dl/74c4fe)
     - ライセンス：[けん at 石川県シビックテック](https://twitter.com/kenchif), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
 
+
+### 自治体GIS活用推進グループ（災害支援チーム）
+- 能登半島地震孤立地区基本調査区
+    - 出典：https://www.facebook.com/groups/239567562518405/
+    - 概要：能登半島各自治体の字領域/字名と、NHK報道より得た孤立集落情報をGIS化。孤立集落情報との突合せで、正確に特定できていない部分があるので、利用いただいて特定の正確化＆フィードバックを期待したい。
+    - 自治体GIS活用推進グループ（災害支援チーム）、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
+
+- 能登町地区割小地域
+    - 出典：https://www.facebook.com/groups/239567562518405/
+    - 概要：能登町で実際に住民に使われている地域名が小字名と異なるとのことより、それを大まかにデータ化したもの。
+    - ライセンス：自治体GIS活用推進グループ（災害支援チーム）、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
+
+### OpenStreetMap
+- OpenStreetMap Highway + カテゴリ分け
+    - 出典：[OpenStreetMap](https://www.openstreetmap.org/#map=10/37.1056/136.8471)、カテゴリ分けデザイン：[自治体GIS活用推進グループ（災害支援チーム）](https://www.facebook.com/groups/239567562518405/)
+    - 概要：OpenStreetMapよりhighway情報をDLし、カテゴリごとに色分けしたもの。通過可能ルートのベクトル計算用。
+    - ライセンス：OpenStreetMap® is open data, licensed under the [Open Data Commons Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/) by the [OpenStreetMap Foundation (OSMF)](https://osmfoundation.org/).
+
 ### pikkarin
 - 令和6年能登半島地震 石川県七尾市避難所開設情報GISデータ
     - 出典：https://github.com/raokiey/R06-Noto-Peninsula-EQ-open-shelter-Nanao
         - 原初データ出典：七尾市「[避難所一覧/開設中の避難所状況](https://www.city.nanao.lg.jp/bosai/mail/202401021200.html)」、石川県「[指定緊急避難所一覧](https://www.pref.ishikawa.lg.jp/opendata/shakaikiban_index.html)」、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)、七尾市「[10_指定緊急避難所施設一覧](https://www.city.nanao.lg.jp/koho/shise/koho/opendata/index.html)」、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
     - 概要：`石川県七尾市のWebサイトにて公開されている[開設中の避難所情報](https://www.city.nanao.lg.jp/bosai/mail/202401021200.html)を石川県および七尾市が公開しているオープンデータをもとに位置情報などを付加して、GISデータ化したデータ`。[データ作成処理の定期実行（1時間毎）により、七尾市のWebサイト更新があった際に最新情報に更新される見込み]。`避難所によっては集計時間が異なることがあります。（七尾市Webサイトより）`。間違いがあった場合、[Xのアカウント、@ra0kley](https://twitter.com/ra0kley/)などへ連絡。
     - ライセンス：pikkarin, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
+
 
 ### 独自作成データ
 - 国土数値情報：半島循環道路データ/緊急輸送道路と国土地理院：斜面崩壊・堆積分布データとの交差地点データ
