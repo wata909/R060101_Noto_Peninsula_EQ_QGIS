@@ -66,13 +66,13 @@
 - 空中写真判読による津波浸水域（推定）（1月11日更新）
     - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#7
     - 概要：`国土地理院が1月2日及び1月5日に撮影した空中写真（珠洲地区、輪島東地区、穴水地区、七尾地区）から、令和6年能登半島地震によって生じたと考えられる津波到達範囲（堤外地を含む）を判読（一部を再判読）して作成したも`であり、`海岸線は空中写真（正射画像）に合わせて取得しており、地形図と整合していない箇所があります`とのこと。
-    - オリジナルデータ閲覧：[地理院地図]https://maps.gsi.go.jp/#13/37.480443/137.341805/&base=std&ls=std%7C20240106noto_suzu_wazimahigashi_0103shinsuii%7C20240106noto_anamizu_0110shinsuii%7C20240109noto_nanao_0110shinsuii&disp=1111&lcd=20240109noto_nanao_0110shinsuii&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
+    - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#13/37.480443/137.341805/&base=std&ls=std%7C20240106noto_suzu_wazimahigashi_0103shinsuii%7C20240106noto_anamizu_0110shinsuii%7C20240109noto_nanao_0110shinsuii&disp=1111&lcd=20240109noto_nanao_0110shinsuii&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
     - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html)に従い、出典明示により、転載も含め使用可
 
 - 空中写真判読による津波浸水域（推定）（1月12日更新）
     - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#7
     - 概要：`国土地理院が1月2日及び1月5日、1月11日に撮影した空中写真（珠洲地区、輪島東地区、穴水地区、七尾地区、輪島西地区）から、令和6年能登半島地震によって生じたと考えられる津波到達範囲（堤外地を含む）を判読（一部を再判読）して作成したもの`であり、`海岸線は空中写真（正射画像）に合わせて取得しており、地形図と整合していない箇所があります`とのこと。
-    - オリジナルデータ閲覧：[地理院地図]https://maps.gsi.go.jp/#11/37.264217/136.784592/&base=std&ls=std%7C20240112noto_wazimanishi_0112shinsuii%7C20240106noto_suzu_wazimahigashi_0103shinsuii%7C20240106noto_anamizu_0110shinsuii%7C20240109noto_nanao_0110shinsuii&disp=11111&lcd=20240109noto_nanao_0110shinsuii&vs=c1g1j0h0k0l0u0t0z0r0s0m0f2&d=m)
+    - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#11/37.264217/136.784592/&base=std&ls=std%7C20240112noto_wazimanishi_0112shinsuii%7C20240106noto_suzu_wazimahigashi_0103shinsuii%7C20240106noto_anamizu_0110shinsuii%7C20240109noto_nanao_0110shinsuii&disp=11111&lcd=20240109noto_nanao_0110shinsuii&vs=c1g1j0h0k0l0u0t0z0r0s0m0f2&d=m)
     - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html)に従い、出典明示により、転載も含め使用可
 
 - 被災地域空中写真（正射画像）：珠洲地区、輪島東地区、輪島中地区、20240102撮影
