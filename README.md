@@ -117,9 +117,12 @@
 
 - 令和6年能登半島地震　能登半島　道路復旧の状況
     - 出典：https://www.mlit.go.jp/saigai/saigai_240101.html
-    - 概要：国土交通省のWebページ[令和６年能登半島地震における被害と対応について](https://www.mlit.go.jp/saigai/saigai_240101.html)にて公開されている「被害状況位置図等」の「令和6年能登半島地震　能登半島　道路復旧の状況」について、幾何補正をおこなったもの。なお、元画像が小縮尺であり、拡大した場合の情報の位置精度は不正確である。
+    - 概要：国土交通省のWebページ[令和６年能登半島地震における被害と対応について](https://www.mlit.go.jp/saigai/saigai_240101.html)にて公開されている「被害状況位置図等」の「令和6年能登半島地震　能登半島　道路復旧の状況」、または[令和６年能登半島地震　緊急復旧（道路啓開）の状況](https://www.mlit.go.jp/road/road_fr4_000151.html)にて公開されている「令和6年能登半島地震　能登半島　道路復旧の状況」について、幾何補正をおこなったもの。なお、元画像が小縮尺であり、拡大した場合の情報の位置精度は不正確である。
     - オリジナルデータ閲覧：
-        - [2024年1月12日：被害状況位置図等](https://www.mlit.go.jp/common/001717503.pdf)
+        - [2024年1月15日：被害状況位置図等](https://www.mlit.go.jp/road/content/001717811.pdf)
+        - [2024年1月14日：被害状況位置図等]()
+        - [2024年1月13日：被害状況位置図等](https://www.mlit.go.jp/road/content/001717735.pdf)
+        - [2024年1月12日：被害状況位置図等](https://www.mlit.go.jp/road/content/001717734.pdf)
         - [2024年1月11日：被害状況位置図等](https://www.mlit.go.jp/common/001717324.pdf) 
         - [2024年1月10日：被害状況位置図等](https://www.mlit.go.jp/common/001717151.pdf)
         - [2024年1月9日：被害状況位置図等](https://www.mlit.go.jp/common/001716868.pdf)
@@ -127,6 +130,10 @@
         - [2024年1月7日：被害状況位置図等](https://www.mlit.go.jp/common/001716781.pdf)
         - [2024年1月6日：被害状況位置図等](https://www.mlit.go.jp/common/001716765.pdf)
         - [2024年1月5日：被害状況位置図等](https://www.mlit.go.jp/common/001716604.pdf)
+    - ライセンス：[リンク・著作権・免責事項（政府標準利用規約（第2.0版）準拠）](https://nlftp.mlit.go.jp/ksj/other/agreement.html#agree-02)。
+
+- 令和６年能登半島地震　道路復旧見える化マップ
+    - 出典：https://www.mlit.go.jp/road/r6noto/index2.html
     - ライセンス：[リンク・著作権・免責事項（政府標準利用規約（第2.0版）準拠）](https://nlftp.mlit.go.jp/ksj/other/agreement.html#agree-02)。
 
 ### 総務省
