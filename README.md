@@ -84,9 +84,9 @@
     - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#10/37.205573/136.969637/&base=std&ls=std%7C20240102_noto_anamizu_0105do%7C20240102_noto_nanao_0105do%7C20240102_noto_suzu_0105do%7C20240102_noto_wazimanaka_0105do&blend=0000&disp=11111&lcd=20240102_noto_wazimanaka_0105do&vs=c1g1j0h0k0l0u0t0z0r0s0m0f2&d=m)
     - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/)
 
-- 被災地域空中写真（正射画像）：輪島西地区、20240111撮影
+- 被災地域空中写真（正射画像）：輪島西地区、穴水地区 20240111撮影
     - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#4
-    - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#12/37.267769/136.776867/&base=std&ls=std%7C20240102noto_wazimanishi_0111do%7C20240112noto_wazimanishi_0112shinsuii&blend=0&disp=111&lcd=20240102noto_wazimanishi_0111do&vs=c1g1j0h0k0l0u0t0z0r0s0m0f2&d=m)
+    - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#10/37.268140/136.965662/&base=std&ls=std%7C20240102noto_anamizu_0111do%7C20240102noto_wazimanaka_0111do&blend=00&disp=111&lcd=20240102noto_wazimanaka_0111do&vs=c0g1j0h0k0l0u0t0z0r0s0m0f0&d=m)
     - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/)
 
 - だいち2号」観測データの解析による海岸線の変化
