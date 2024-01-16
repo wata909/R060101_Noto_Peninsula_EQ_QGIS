@@ -89,6 +89,11 @@
     - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#10/37.268140/136.965662/&base=std&ls=std%7C20240102noto_anamizu_0111do%7C20240102noto_wazimanaka_0111do&blend=00&disp=111&lcd=20240102noto_wazimanaka_0111do&vs=c0g1j0h0k0l0u0t0z0r0s0m0f0&d=m)
     - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/)
 
+- 被災地域空中写真（正射画像）：珠洲地区、輪島東地区、穴水地区 20240114撮影
+    - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#4
+    - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#10/37.149919/136.967239/&base=std&ls=std%7C20240102noto_suzu_0114do%7C20240102noto_wazimahigashi_0114do%7C20240102noto_anamizu_0114do&blend=000&disp=1111&lcd=20240102noto_anamizu_0114do&vs=c0g1j0h0k0l0u0t0z0r0s0m0f0)
+    - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/)
+
 - だいち2号」観測データの解析による海岸線の変化
     - 出典：https://www.gsi.go.jp/uchusokuchi/20240101noto_pwr.html
     - 概要：`地震前後のSAR強度画像を用いてRGB合成画像を作成し、地震後に生じた陸化した地域（赤色で表現）を抽出`したデータ
@@ -119,8 +124,9 @@
     - 出典：https://www.mlit.go.jp/saigai/saigai_240101.html
     - 概要：国土交通省のWebページ[令和６年能登半島地震における被害と対応について](https://www.mlit.go.jp/saigai/saigai_240101.html)にて公開されている「被害状況位置図等」の「令和6年能登半島地震　能登半島　道路復旧の状況」、または[令和６年能登半島地震　緊急復旧（道路啓開）の状況](https://www.mlit.go.jp/road/road_fr4_000151.html)にて公開されている「令和6年能登半島地震　能登半島　道路復旧の状況」について、幾何補正をおこなったもの。なお、元画像が小縮尺であり、拡大した場合の情報の位置精度は不正確である。
     - オリジナルデータ閲覧：
+        - [2024年1月16日：被害状況位置図等](https://www.mlit.go.jp/road/content/001717999.pdf)
         - [2024年1月15日：被害状況位置図等](https://www.mlit.go.jp/road/content/001717811.pdf)
-        - [2024年1月14日：被害状況位置図等]()
+        - [2024年1月14日：被害状況位置図等](https://www.mlit.go.jp/road/content/001717730.pdf)
         - [2024年1月13日：被害状況位置図等](https://www.mlit.go.jp/road/content/001717735.pdf)
         - [2024年1月12日：被害状況位置図等](https://www.mlit.go.jp/road/content/001717734.pdf)
         - [2024年1月11日：被害状況位置図等](https://www.mlit.go.jp/common/001717324.pdf) 
@@ -222,6 +228,10 @@
         - 原初データ出典：[地域分析に有用なデータの提供, 地域・交通データ研究所代表（東京大学空間情報科学研究センター客員研究員）西澤明](https://gtfs-gis.jp/teikyo/index.html)
     - 概要：地域・交通データ研究所にて公開されている令和2年簡易100mメッシュ人口データを、shi-works様がFlatgeobuf形式に変換したデータ。
     - ライセンス：[西澤明](https://gtfs-gis.jp/teikyo/index.html)、[@shi-works](https://twitter.com/shi__works)、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
+- Google Buildings footprint（FlatGeobuf形式）
+    - 出典：https://github.com/shi-works/noto-hanto-earthquake-2024-google-buildings-footprint?tab=readme-ov-file
+        - 原初データ出典：[Japan West Buildings footprint. Noto Earthquake January 2023（ライセンス：CC BY 4.0 または ODbL）](https://data.humdata.org/dataset/open_buildings_v3_west_japan_earthquake_epicenter)
+    - 概要：[国連人道問題調整事務所(OCHA)のHDX](https://data.humdata.org/)にて公開されている[Japan West Buildings footprint. Noto Earthquake January 2023](https://data.humdata.org/dataset/open_buildings_v3_west_japan_earthquake_epicenter)をFlatGeobuf形式に変換したデータ。shi-works提供。
 
 ### 東京大学渡邉英徳研究室
 - SAR image tilesets of Noto Peninsula earthquake 2024
