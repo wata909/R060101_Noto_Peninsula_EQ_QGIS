@@ -57,6 +57,13 @@
     - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#11/37.292355/136.912994/&base=std&ls=std%7C20240112noto_wazimanishi_houkaichi&disp=11&lcd=20240112noto_wazimanishi_houkaichi&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
     - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html)に従い、出典明示により、転載も含め使用可
 
+- 斜面崩壊・堆積分布データ（2024年1月15日更新分、輪島中地区）
+    - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#2
+    - 概要：`国土地理院が1月2日、5日、11日および14日に撮影した空中写真（正射画像）・（珠洲地区、輪島東地区、輪島中地区、穴水地区、七尾地区、輪島西地区）から、令和6年能登半島地震によって生じたと考えられる斜面崩壊地及び土砂堆積箇所の範囲について判読（一部は再度判読）したもの`であり、`道路や河川上の土砂は、一部撤去されている可能性`あり。
+        - 注意事項：`輪島中地区は、1月2日、5日及び11日に撮影した空中写真（正射画像）を用いて判読`。
+    - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#11/37.169345/137.015305/&base=std&ls=std%7C20240115noto_wazimanaka_houkaichi&disp=11&lcd=20240115noto_wazimanaka_houkaichi&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
+
+
 - 空中写真判読による津波浸水域（推定）
     - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#7
     - 概要：`国土地理院が1月2日に撮影した空中写真（正射画像）・（珠洲地区、輪島東地区）から、令和6年能登半島地震によって生じたと考えられる津波浸水域を判読して作成したもの`であり、`海岸線は空中写真（正射画像）に合わせて取得しており、地形図と整合していない箇所があります`とのこと。
@@ -92,6 +99,11 @@
 - 被災地域空中写真（正射画像）：珠洲地区、輪島東地区、穴水地区 20240114撮影
     - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#4
     - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#10/37.149919/136.967239/&base=std&ls=std%7C20240102noto_suzu_0114do%7C20240102noto_wazimahigashi_0114do%7C20240102noto_anamizu_0114do&blend=000&disp=1111&lcd=20240102noto_anamizu_0114do&vs=c0g1j0h0k0l0u0t0z0r0s0m0f0)
+    - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/)
+
+- 被災地域空中写真（正射画像）：穴水地区、輪島西地区、七尾地区 20240117撮影
+    - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#4
+    - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#10/37.140067/136.960373/&base=std&ls=std%7C20240102noto_wazimahigashi_0102do%7C20240102noto_wazimanaka_0111do%7C20240102noto_suzu_0102do%7C20240102_noto_suzu_0105do%7C20240102noto_nanao_0117do%7C20240102noto_anamizu_0117do%7C20240102noto_wazimanishi_0117do&blend=0000000&disp=10000111&lcd=20240102noto_wazimanishi_0117do&vs=c1g1j0h0k0l0u0t0z0r0s0m0f0)
     - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/)
 
 - だいち2号」観測データの解析による海岸線の変化
