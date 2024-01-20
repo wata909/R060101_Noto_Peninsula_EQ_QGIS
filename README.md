@@ -115,6 +115,26 @@
     - オリジナルデータ閲覧：[地理院地図：RGB画像2023年6月6日‐2024年1月2日](https://maps.gsi.go.jp/#10/37.078737/136.783218/&base=std&ls=std%7Cnoto_pow_rgb_20230606-20240102_ver2&blend=0&disp=11&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)および[地理院地図：RGB画像2022年9月26日‐2024年1月1日](https://maps.gsi.go.jp/#10/37.078737/136.783218/&base=std&ls=std%7C20220926_20240101_AL_RGB_tile&blend=0&disp=11&lcd=20220926_20240101_AL_RGB_tile&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)、[地理院地図：RGB画像2023年6月12日‐2024年1月8日](https://maps.gsi.go.jp/#10/37.203778/137.018716/&base=std&ls=std%7C20230612_20240108_AR_RGB_tile&blend=0&disp=11&lcd=20230612_20240108_AR_RGB_tile&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
     - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html)に従い、出典明示により、転載も含め使用可
 
+- 「だいち２号」観測データの解析による令和６年能登半島地震に伴う地殻変動
+    - 出典：https://www.gsi.go.jp/uchusokuchi/20240101noto_insar.html
+    - 概要：`2024年1月1日16時10分頃に発生した令和６年能登半島地震（M7.6、最大震度7）について、だいち2号の観測データを使用し、2.5次元解析、ピクセルオフセット法による解析、及びSAR干渉解析`の結果
+        - 参考
+            - [2.5次元解析](https://www.gsi.go.jp/uchusokuchi/sar_3d.html)
+            - [ピクセルオフセット法について](https://www.gsi.go.jp/cais/pixel_offset.html)
+        - オリジナルデータ閲覧
+            - [2.5次元解析結果、能登半島全域（準上下成分）](https://maps.gsi.go.jp/#9/36.812583/137.193146/&base=std&ls=std%7Curgent_earthquake_20240101noto_merge_wtmean_qu&blend=1&disp=11&lcd=urgent_earthquake_20240101noto_merge_wtmean_qu&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
+            - [2.5次元解析結果、能登半島全域（準東西成分）](https://maps.gsi.go.jp/#9/36.812583/137.193146/&base=std&ls=std%7Curgent_earthquake_20240101noto_merge_wtmean_qe&blend=0&disp=11&lcd=urgent_earthquake_20240101noto_merge_wtmean_qe&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
+            - [2022年9月26日	2024年1月1日](https://maps.gsi.go.jp/#9/36.811484/137.194519/&base=std&ls=std%7Curgent_earthquake_20240101noto_offset_tracking_rgo32_masked_filt&blend=0&disp=11&lcd=urgent_earthquake_20240101noto_offset_tracking_rgo32_masked_filt&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
+            - [2023年6月6日	2024年1月2日](https://maps.gsi.go.jp/#9/36.811484/137.194519/&base=std&ls=std%7Curgent_earthquake_20240101noto_20230606_20240102obd_pixeloffset_rgo32_masked_filt&blend=0&disp=11&lcd=urgent_earthquake_20240101noto_20230606_20240102obd_pixeloffset_rgo32_masked_filt&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
+            - [2023年12月6日	2024年1月3日](https://maps.gsi.go.jp/#9/36.811484/137.194519/&base=std&ls=std%7Curgent_earthquake_20240101noto_20231206_20240103obd_pixeloffset_rgo32_masked_filt&blend=0&disp=11&lcd=urgent_earthquake_20240101noto_20231206_20240103obd_pixeloffset_rgo32_masked_filt&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
+            - [2023年6月12日	2024年1月8日](https://maps.gsi.go.jp/#9/36.811484/137.194519/&base=std&ls=std%7Curgent_earthquake_20240101noto_20230612_20240108obd_pixeloffset_rgo64_masked_filt&blend=0&disp=11&lcd=urgent_earthquake_20240101noto_20230612_20240108obd_pixeloffset_rgo64_masked_filt&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
+            - [2021年10月19日	2024年1月9日](https://maps.gsi.go.jp/#10/37.137877/137.207565/&base=std&ls=std%7Curgent_earthquake_20240101noto_20211019_20240109_u10r_wrklk%7Curgent_earthquake_20240101noto_20211019_20240109_pixeloffset_rgo64_masked_filt&blend=00&disp=101&lcd=urgent_earthquake_20240101noto_20211019_20240109_u10r_wrklk&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
+            - [2023年11月3日	2024年1月12日](https://maps.gsi.go.jp/#10/37.137877/137.207565/&base=std&ls=std%7Curgent_earthquake_20240101noto_20231103_20240112_u07r%7Curgent_earthquake_20240101noto_20231103_20240112_pixeloffset_rgo64_masked_filt&blend=00&disp=101&lcd=urgent_earthquake_20240101noto_20231103_20240112_pixeloffset_rgo64_masked_filt&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
+            - [2023年12月31日	2024年1月14日](https://maps.gsi.go.jp/#10/37.137877/137.207565/&base=std&ls=std%7Curgent_earthquake_20240101noto_20231231_20240114_u08r%7Curgent_earthquake_20240101noto_20231231_20240114_pixeloffset_rgo64_masked_filt&blend=00&disp=101&lcd=urgent_earthquake_20240101noto_20231231_20240114_pixeloffset_rgo64_masked_filt&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
+            - [2022年6月6日	2024年1月15日](https://maps.gsi.go.jp/#10/37.137877/137.207565/&base=std&ls=std%7Curgent_earthquake_20240101noto_20220606_20240115_u07l%7Curgent_earthquake_20240101noto_20220606_20240115_pixeloffset_rgo64_masked_filt&blend=00&disp=101&lcd=urgent_earthquake_20240101noto_20220606_20240115_pixeloffset_rgo64_masked_filt&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
+
+
+
 - 地理院タイル
     - 出典：https://maps.gsi.go.jp/development/ichiran.html
     - 概要：背景画像として空中写真と標準地図を使用
