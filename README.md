@@ -295,6 +295,11 @@
         - 原初データ出典：[Umbra Open Data Program](https://umbra.space/open-data), [Noto Peninsula Earthquake](http://umbra-open-data-catalog.s3-website.us-west-2.amazonaws.com/?prefix=sar-data/tasks/ad%20hoc/Noto%20Peninsula%20Earthquake/)
     - 概要：[Umbra Open Data Program](https://umbra.space/open-data)にて公開されている [Noto Peninsula Earthquake](http://umbra-open-data-catalog.s3-website.us-west-2.amazonaws.com/?prefix=sar-data/tasks/ad%20hoc/Noto%20Peninsula%20Earthquake/)を、[東京大学渡邉英徳研究室](https://labo.wtnv.jp/)にてXYZタイルに変換したもの。[Noto Peninsula Earthquake](http://umbra-open-data-catalog.s3-website.us-west-2.amazonaws.com/?prefix=sar-data/tasks/ad%20hoc/Noto%20Peninsula%20Earthquake/)Cloud Optimzed GeoTiff形式のデータを直接読み込むプロジェクトファイルは、[R060101_Noto_Peninsula_EQ_UnbraSAR_OD.qgz](./R060101_Noto_Peninsula_EQ_UnbraSAR_OD.qgz)に準備。
     - ライセンス：[Umbra Open Data Program](https://umbra.space/open-data)、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
+- ASNARO-2 SAR image tilesets of Noto Peninsula earthquake 2024
+    - 出典：https://github.com/wtnv-lab/noto_earthquake_ASNARO2
+    - 概要：能登半島地震 ASNARO-2 SARイメージを、[東京大学渡邉英徳研究室](https://labo.wtnv.jp/)にてXYZタイルに変換したもの。2023年12月19日 / 2024年1月2日の輪島東部のデータあり。
+    - オリジナルデータ閲覧：[Before-and-after comparison web app](https://wtnvlab.maps.arcgis.com/apps/instant/media/index.html?appid=730d2a2b65a3488fae78e44703cc50c3)
+    - ライセンス：© JEOSS / Original Image © NEC Corporation
 
 ### Code for Kanazawa
 - 能登半島地震コネクトマップ接続データ
