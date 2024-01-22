@@ -63,6 +63,13 @@
         - 注意事項：`輪島中地区は、1月2日、5日及び11日に撮影した空中写真（正射画像）を用いて判読`。
     - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#11/37.169345/137.015305/&base=std&ls=std%7C20240115noto_wazimanaka_houkaichi&disp=11&lcd=20240115noto_wazimanaka_houkaichi&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
 
+- 斜面崩壊・堆積分布データ（2024年1月19日更新分、七尾地区、穴水地区）
+    - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#2
+    - 概要：`国土地理院が1月2日、5日、11日、14日及び17日に撮影した空中写真（正射画像）・（珠洲地区、輪島東地区、輪島中地区、輪島西地区、穴水地区、七尾地区）から、令和6年能登半島地震によって生じたと考えられる斜面崩壊地及び土砂堆積箇所の範囲について判読（一部は再度判読）したもの`であり、`道路や河川上の土砂は、一部撤去されている可能性`あり。　穴水地区は、`1月5日、14日及び17日に撮影した空中写真（正射画像）を用いて判読`、七尾地区は、`1月5日及び17日に撮影した空中写真（正射画像）を用いて判読`。
+    - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#11/37.169345/137.015305/&base=std&ls=std%7C20240109noto_nanao_houkaichi%7C20240106noto_anamizu_houkaichi&disp=111&lcd=20240106noto_anamizu_houkaichi&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
+
+
+
 
 - 空中写真判読による津波浸水域（推定）
     - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#7
@@ -80,6 +87,12 @@
     - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#7
     - 概要：`国土地理院が1月2日及び1月5日、1月11日に撮影した空中写真（珠洲地区、輪島東地区、穴水地区、七尾地区、輪島西地区）から、令和6年能登半島地震によって生じたと考えられる津波到達範囲（堤外地を含む）を判読（一部を再判読）して作成したもの`であり、`海岸線は空中写真（正射画像）に合わせて取得しており、地形図と整合していない箇所があります`とのこと。
     - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#11/37.264217/136.784592/&base=std&ls=std%7C20240112noto_wazimanishi_0112shinsuii%7C20240106noto_suzu_wazimahigashi_0103shinsuii%7C20240106noto_anamizu_0110shinsuii%7C20240109noto_nanao_0110shinsuii&disp=11111&lcd=20240109noto_nanao_0110shinsuii&vs=c1g1j0h0k0l0u0t0z0r0s0m0f2&d=m)
+    - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html)に従い、出典明示により、転載も含め使用可
+
+- 空中写真判読による津波浸水域（推定）（1月19日更新）
+    - 出典：https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html#7
+    - 概要：`国土地理院が1月2日、5日、11日、14日及び17日に撮影した空中写真（珠洲地区、輪島東地区、輪島西地区、穴水地区、七尾地区）から、令和6年能登半島地震によって生じたと考えられる津波到達範囲（堤外地を含む）を判読（一部を再判読）して作成したもの`であり、`海岸線は空中写真（正射画像）に合わせて取得しており、地形図と整合していない箇所があります`とのこと。
+    - オリジナルデータ閲覧：[地理院地図](https://maps.gsi.go.jp/#11/37.179467/136.973076/&base=std&ls=std%7C20240106noto_anamizu_0110shinsuii%7C20240109noto_nanao_0110shinsuii&disp=111&lcd=20240109noto_nanao_0110shinsuii&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
     - ライセンス：[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html)に従い、出典明示により、転載も含め使用可
 
 - 被災地域空中写真（正射画像）：珠洲地区、輪島東地区、輪島中地区、20240102撮影
@@ -253,9 +266,17 @@
     - ライセンス：令和6年能登半島地震変動地形調査グループ（日本地理学会）、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
 
 ### 全国Ｑ地図
-- 全国Q地図・Q地図タイルAxelGlobe画像
+- Q地図タイルAxelGlobe画像
     - 出典：https://info.qchizu.xyz/
         - 原初データ出典：https://www.axelglobe.com/ja/the-noto-hanto-earthquake-in-2024
+- Q地図タイル2020，2022年石川県能登（簡易オルソ）
+    - 出典：https://info.qchizu.xyz/
+    - オリジナルデータ閲覧：[2020，2022年石川県能登（簡易オルソ）](https://maps.qchizu.xyz/#11/37.275965/136.952133/&base=std&ls=std%7C17p_ishikawa_f_01&blend=0&disp=11&lcd=17p_ishikawa_f_01&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
+        - 原初データ出典：
+- Q地図タイル令和６年能登半島地震の被災地域の地震前の地形
+    - 出典：https://info.qchizu.xyz/
+    - オリジナルデータ閲覧：[全国Ｑ地図MapLibre版（プルダウンから「能登東部2022」を選択）](https://maps.qchizu.xyz/maplibre/#16.03/37.496275/137.194234/93.6/47)
+        - 原初データ出典：
 
 ### shi-works
 - 令和2年簡易100mメッシュ人口データ（石川県、富山県）（FlatGeobuf形式）
