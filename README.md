@@ -146,8 +146,6 @@
             - [2023年12月31日	2024年1月14日](https://maps.gsi.go.jp/#10/37.137877/137.207565/&base=std&ls=std%7Curgent_earthquake_20240101noto_20231231_20240114_u08r%7Curgent_earthquake_20240101noto_20231231_20240114_pixeloffset_rgo64_masked_filt&blend=00&disp=101&lcd=urgent_earthquake_20240101noto_20231231_20240114_pixeloffset_rgo64_masked_filt&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
             - [2022年6月6日	2024年1月15日](https://maps.gsi.go.jp/#10/37.137877/137.207565/&base=std&ls=std%7Curgent_earthquake_20240101noto_20220606_20240115_u07l%7Curgent_earthquake_20240101noto_20220606_20240115_pixeloffset_rgo64_masked_filt&blend=00&disp=101&lcd=urgent_earthquake_20240101noto_20220606_20240115_pixeloffset_rgo64_masked_filt&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
 
-
-
 - 地理院タイル
     - 出典：https://maps.gsi.go.jp/development/ichiran.html
     - 概要：背景画像として空中写真と標準地図を使用
@@ -250,7 +248,7 @@
 - 津波浸水範囲（第三報）
     - 出典：[令和6年能登半島地震による津波浸水範囲の検討結果（第二報）](http://disaster.ajg.or.jp/files/202401_Noto005.pdf)
         - 原初データ出典：[国土地理院空中写真（正射画像）](https://www.gsi.go.jp/BOUSAI/20240101_noto_earthquake.html)
-    - 概要：`国土地理院によって地震後に上空から撮影され，webサイトを通して公開されている空中写真（垂直写真）を用いて津波浸水範囲を実体視判読`により得られたデータ。`の判読範囲は，第二報までの輪島市光浦町～珠洲市三崎町寺家および珠洲市南部正院町～宝立町の範囲に加え，珠洲市三崎町周辺および能登町～七尾市佐々波町，志賀町富来領家町～高浜町までの海岸線の延長約 320 km の地域`。`穴水町曽良～麦ヶ浦周辺は雲に覆われていた`ため判読不可。[日本地理学会災害対応委員会 令和６年（2024年）能登半島地震](https://ajg-disaster.blogspot.com/2024/01/2024_2.html)にて公開されている津波浸水範囲（および判読範囲のgeojsonファイルをFlatgeobuf形式に変換。
+    - 概要：`国土地理院によって地震後に上空から撮影され，webサイトを通して公開されている空中写真（垂直写真）を用いて津波浸水範囲を実体視判読`により得られたデータ。`の判読範囲は，第二報までの輪島市光浦町～珠洲市三崎町寺家および珠洲市南部正院町～宝立町の範囲に加え，珠洲市三崎町周辺および能登町～七尾市佐々波町，志賀町富来領家町～高浜町までの海岸線の延長約 320 km の地域`。`穴水町曽良～麦ヶ浦周辺は雲に覆われていた`ため判読不可。[日本地理学会災害対応委員会 令和６年（2024年）能登半島地震](https://ajg-disaster.blogspot.com/2024/01/2024_2.html)にて公開されている津波浸水範囲および判読範囲のgeojsonファイルをFlatgeobuf形式に変換。
     - ライセンス：令和6年能登半島地震変動地形調査グループ（日本地理学会）、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
 
 - 津波浸水範囲（第二報）
