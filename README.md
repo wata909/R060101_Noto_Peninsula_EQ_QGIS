@@ -167,14 +167,15 @@
     - 出典：https://www.mlit.go.jp/saigai/saigai_240101.html
     - 概要：国土交通省のWebページ[令和６年能登半島地震における被害と対応について](https://www.mlit.go.jp/saigai/saigai_240101.html)にて公開されている「被害状況位置図等」の「令和6年能登半島地震　能登半島　道路復旧の状況」、または[令和６年能登半島地震　緊急復旧（道路啓開）の状況](https://www.mlit.go.jp/road/road_fr4_000151.html)にて公開されている「令和6年能登半島地震　能登半島　道路復旧の状況」について、幾何補正をおこなったもの。なお、元画像が小縮尺であり、拡大した場合の情報の位置精度は不正確である。
     - オリジナルデータ閲覧：
-        - [2024年1月19日：被害状況位置図等](https://www.mlit.go.jp/road/content/001718789.pdf)
-        - [2024年1月18日：被害状況位置図等](https://www.mlit.go.jp/road/content/001718518.pdf)
-        - [2024年1月17日：被害状況位置図等](https://www.mlit.go.jp/road/content/001718258.pdf)
-        - [2024年1月16日：被害状況位置図等](https://www.mlit.go.jp/road/content/001717999.pdf)
-        - [2024年1月15日：被害状況位置図等](https://www.mlit.go.jp/road/content/001717811.pdf)
-        - [2024年1月14日：被害状況位置図等](https://www.mlit.go.jp/road/content/001717730.pdf)
-        - [2024年1月13日：被害状況位置図等](https://www.mlit.go.jp/road/content/001717735.pdf)
-        - [2024年1月12日：被害状況位置図等](https://www.mlit.go.jp/road/content/001717734.pdf)
+        - [2024年1月25日：道路の緊急復旧の状況](https://www.mlit.go.jp/road/content/001719918.pdf)
+        - [2024年1月19日：道路の緊急復旧の状況](https://www.mlit.go.jp/road/content/001718789.pdf)
+        - [2024年1月18日：道路の緊急復旧の状況](https://www.mlit.go.jp/road/content/001718518.pdf)
+        - [2024年1月17日：道路の緊急復旧の状況](https://www.mlit.go.jp/road/content/001718258.pdf)
+        - [2024年1月16日：道路の緊急復旧の状況](https://www.mlit.go.jp/road/content/001717999.pdf)
+        - [2024年1月15日：道路の緊急復旧の状況](https://www.mlit.go.jp/road/content/001717811.pdf)
+        - [2024年1月14日：道路の緊急復旧の状況](https://www.mlit.go.jp/road/content/001717730.pdf)
+        - [2024年1月13日：道路の緊急復旧の状況](https://www.mlit.go.jp/road/content/001717735.pdf)
+        - [2024年1月12日：道路の緊急復旧の状況](https://www.mlit.go.jp/road/content/001717734.pdf)
         - [2024年1月11日：被害状況位置図等](https://www.mlit.go.jp/common/001717324.pdf) 
         - [2024年1月10日：被害状況位置図等](https://www.mlit.go.jp/common/001717151.pdf)
         - [2024年1月9日：被害状況位置図等](https://www.mlit.go.jp/common/001716868.pdf)

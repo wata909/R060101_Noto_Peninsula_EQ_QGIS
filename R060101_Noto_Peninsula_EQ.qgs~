@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis saveUser="iwasaki" version="3.34.1-Prizren" saveUserFull="iwasaki" projectname="" saveDateTime="2024-01-22T16:56:19">
+<qgis saveUser="iwasaki" version="3.34.1-Prizren" saveUserFull="iwasaki" projectname="" saveDateTime="2024-01-22T16:59:38">
   <homePath path=""/>
   <title></title>
   <transaction mode="Disabled"/>
@@ -63739,95 +63739,95 @@ def my_form_open(dialog, layer, feature):
   <properties>
     <CopyrightLabel>
       <Enabled type="bool">true</Enabled>
-      <Font type="QString">&lt;text-style fontWordSpacing="0" fontSizeUnit="Point" textColor="50,50,50,255" multilineHeight="1" textOrientation="horizontal" fontStrikeout="0" previewBkgrdColor="255,255,255,255" fontFamily="MS UI Gothic" namedStyle="Normal" fontSize="13" allowHtml="0" multilineHeightUnit="Percentage" fontSizeMapUnitScale="3x:0,0,0,0,0,0" fontLetterSpacing="0" fontKerning="1" forcedItalic="0" capitalization="0" fontUnderline="0" fontItalic="0" textOpacity="1" fontWeight="50" forcedBold="0" blendMode="0">
+      <Font type="QString">&lt;text-style textColor="50,50,50,255" namedStyle="Regular" fontSizeUnit="Point" forcedItalic="0" blendMode="0" fontWordSpacing="0" fontItalic="0" multilineHeightUnit="Percentage" fontSizeMapUnitScale="3x:0,0,0,0,0,0" forcedBold="0" fontSize="10" fontUnderline="0" fontKerning="1" fontLetterSpacing="0" textOpacity="1" multilineHeight="1" fontWeight="50" previewBkgrdColor="255,255,255,255" fontStrikeout="0" capitalization="0" allowHtml="0" textOrientation="horizontal" fontFamily="Arial">
  &lt;families/>
- &lt;text-buffer bufferDraw="1" bufferSizeMapUnitScale="3x:0,0,0,0,0,0" bufferJoinStyle="128" bufferColor="250,250,250,255" bufferNoFill="1" bufferOpacity="1" bufferBlendMode="0" bufferSizeUnits="MM" bufferSize="1"/>
- &lt;text-mask maskSizeUnits="MM" maskOpacity="1" maskedSymbolLayers="" maskSizeMapUnitScale="3x:0,0,0,0,0,0" maskType="0" maskJoinStyle="128" maskEnabled="0" maskSize="0"/>
- &lt;background shapeRotation="0" shapeSizeX="0" shapeOffsetUnit="Point" shapeDraw="0" shapeOffsetX="0" shapeSVGFile="" shapeBorderWidthUnit="Point" shapeOffsetY="0" shapeSizeType="0" shapeOffsetMapUnitScale="3x:0,0,0,0,0,0" shapeOpacity="1" shapeBorderWidth="0" shapeType="0" shapeSizeUnit="Point" shapeSizeY="0" shapeBlendMode="0" shapeRadiiMapUnitScale="3x:0,0,0,0,0,0" shapeRotationType="0" shapeRadiiX="0" shapeRadiiUnit="Point" shapeJoinStyle="64" shapeRadiiY="0" shapeBorderWidthMapUnitScale="3x:0,0,0,0,0,0" shapeSizeMapUnitScale="3x:0,0,0,0,0,0" shapeFillColor="255,255,255,255" shapeBorderColor="128,128,128,255">
-  &lt;symbol type="marker" is_animated="0" force_rhr="0" alpha="1" clip_to_extent="1" name="markerSymbol" frame_rate="10">
+ &lt;text-buffer bufferOpacity="1" bufferJoinStyle="128" bufferDraw="1" bufferNoFill="1" bufferSizeMapUnitScale="3x:0,0,0,0,0,0" bufferColor="250,250,250,255" bufferBlendMode="0" bufferSizeUnits="MM" bufferSize="1"/>
+ &lt;text-mask maskJoinStyle="128" maskedSymbolLayers="" maskSizeUnits="MM" maskType="0" maskSize="0" maskSizeMapUnitScale="3x:0,0,0,0,0,0" maskOpacity="1" maskEnabled="0"/>
+ &lt;background shapeBorderWidthUnit="Point" shapeBorderWidthMapUnitScale="3x:0,0,0,0,0,0" shapeDraw="0" shapeOffsetX="0" shapeBorderWidth="0" shapeRadiiMapUnitScale="3x:0,0,0,0,0,0" shapeOffsetMapUnitScale="3x:0,0,0,0,0,0" shapeSizeX="0" shapeSizeUnit="Point" shapeRadiiUnit="Point" shapeRadiiY="0" shapeRotation="0" shapeBorderColor="128,128,128,255" shapeSizeMapUnitScale="3x:0,0,0,0,0,0" shapeOpacity="1" shapeOffsetY="0" shapeJoinStyle="64" shapeSizeType="0" shapeBlendMode="0" shapeSizeY="0" shapeFillColor="255,255,255,255" shapeType="0" shapeOffsetUnit="Point" shapeRotationType="0" shapeRadiiX="0" shapeSVGFile="">
+  &lt;symbol clip_to_extent="1" force_rhr="0" alpha="1" frame_rate="10" type="marker" name="markerSymbol" is_animated="0">
    &lt;data_defined_properties>
     &lt;Option type="Map">
-     &lt;Option type="QString" name="name" value=""/>
+     &lt;Option value="" type="QString" name="name"/>
      &lt;Option name="properties"/>
-     &lt;Option type="QString" name="type" value="collection"/>
+     &lt;Option value="collection" type="QString" name="type"/>
     &lt;/Option>
    &lt;/data_defined_properties>
-   &lt;layer id="" pass="0" class="SimpleMarker" enabled="1" locked="0">
+   &lt;layer enabled="1" locked="0" pass="0" id="" class="SimpleMarker">
     &lt;Option type="Map">
-     &lt;Option type="QString" name="angle" value="0"/>
-     &lt;Option type="QString" name="cap_style" value="square"/>
-     &lt;Option type="QString" name="color" value="114,155,111,255"/>
-     &lt;Option type="QString" name="horizontal_anchor_point" value="1"/>
-     &lt;Option type="QString" name="joinstyle" value="bevel"/>
-     &lt;Option type="QString" name="name" value="circle"/>
-     &lt;Option type="QString" name="offset" value="0,0"/>
-     &lt;Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
-     &lt;Option type="QString" name="offset_unit" value="MM"/>
-     &lt;Option type="QString" name="outline_color" value="35,35,35,255"/>
-     &lt;Option type="QString" name="outline_style" value="solid"/>
-     &lt;Option type="QString" name="outline_width" value="0"/>
-     &lt;Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
-     &lt;Option type="QString" name="outline_width_unit" value="MM"/>
-     &lt;Option type="QString" name="scale_method" value="diameter"/>
-     &lt;Option type="QString" name="size" value="2"/>
-     &lt;Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
-     &lt;Option type="QString" name="size_unit" value="MM"/>
-     &lt;Option type="QString" name="vertical_anchor_point" value="1"/>
+     &lt;Option value="0" type="QString" name="angle"/>
+     &lt;Option value="square" type="QString" name="cap_style"/>
+     &lt;Option value="114,155,111,255" type="QString" name="color"/>
+     &lt;Option value="1" type="QString" name="horizontal_anchor_point"/>
+     &lt;Option value="bevel" type="QString" name="joinstyle"/>
+     &lt;Option value="circle" type="QString" name="name"/>
+     &lt;Option value="0,0" type="QString" name="offset"/>
+     &lt;Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+     &lt;Option value="MM" type="QString" name="offset_unit"/>
+     &lt;Option value="35,35,35,255" type="QString" name="outline_color"/>
+     &lt;Option value="solid" type="QString" name="outline_style"/>
+     &lt;Option value="0" type="QString" name="outline_width"/>
+     &lt;Option value="3x:0,0,0,0,0,0" type="QString" name="outline_width_map_unit_scale"/>
+     &lt;Option value="MM" type="QString" name="outline_width_unit"/>
+     &lt;Option value="diameter" type="QString" name="scale_method"/>
+     &lt;Option value="2" type="QString" name="size"/>
+     &lt;Option value="3x:0,0,0,0,0,0" type="QString" name="size_map_unit_scale"/>
+     &lt;Option value="MM" type="QString" name="size_unit"/>
+     &lt;Option value="1" type="QString" name="vertical_anchor_point"/>
     &lt;/Option>
     &lt;data_defined_properties>
      &lt;Option type="Map">
-      &lt;Option type="QString" name="name" value=""/>
+      &lt;Option value="" type="QString" name="name"/>
       &lt;Option name="properties"/>
-      &lt;Option type="QString" name="type" value="collection"/>
+      &lt;Option value="collection" type="QString" name="type"/>
      &lt;/Option>
     &lt;/data_defined_properties>
    &lt;/layer>
   &lt;/symbol>
-  &lt;symbol type="fill" is_animated="0" force_rhr="0" alpha="1" clip_to_extent="1" name="fillSymbol" frame_rate="10">
+  &lt;symbol clip_to_extent="1" force_rhr="0" alpha="1" frame_rate="10" type="fill" name="fillSymbol" is_animated="0">
    &lt;data_defined_properties>
     &lt;Option type="Map">
-     &lt;Option type="QString" name="name" value=""/>
+     &lt;Option value="" type="QString" name="name"/>
      &lt;Option name="properties"/>
-     &lt;Option type="QString" name="type" value="collection"/>
+     &lt;Option value="collection" type="QString" name="type"/>
     &lt;/Option>
    &lt;/data_defined_properties>
-   &lt;layer id="" pass="0" class="SimpleFill" enabled="1" locked="0">
+   &lt;layer enabled="1" locked="0" pass="0" id="" class="SimpleFill">
     &lt;Option type="Map">
-     &lt;Option type="QString" name="border_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
-     &lt;Option type="QString" name="color" value="255,255,255,255"/>
-     &lt;Option type="QString" name="joinstyle" value="bevel"/>
-     &lt;Option type="QString" name="offset" value="0,0"/>
-     &lt;Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
-     &lt;Option type="QString" name="offset_unit" value="MM"/>
-     &lt;Option type="QString" name="outline_color" value="128,128,128,255"/>
-     &lt;Option type="QString" name="outline_style" value="no"/>
-     &lt;Option type="QString" name="outline_width" value="0"/>
-     &lt;Option type="QString" name="outline_width_unit" value="Point"/>
-     &lt;Option type="QString" name="style" value="solid"/>
+     &lt;Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
+     &lt;Option value="255,255,255,255" type="QString" name="color"/>
+     &lt;Option value="bevel" type="QString" name="joinstyle"/>
+     &lt;Option value="0,0" type="QString" name="offset"/>
+     &lt;Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+     &lt;Option value="MM" type="QString" name="offset_unit"/>
+     &lt;Option value="128,128,128,255" type="QString" name="outline_color"/>
+     &lt;Option value="no" type="QString" name="outline_style"/>
+     &lt;Option value="0" type="QString" name="outline_width"/>
+     &lt;Option value="Point" type="QString" name="outline_width_unit"/>
+     &lt;Option value="solid" type="QString" name="style"/>
     &lt;/Option>
     &lt;data_defined_properties>
      &lt;Option type="Map">
-      &lt;Option type="QString" name="name" value=""/>
+      &lt;Option value="" type="QString" name="name"/>
       &lt;Option name="properties"/>
-      &lt;Option type="QString" name="type" value="collection"/>
+      &lt;Option value="collection" type="QString" name="type"/>
      &lt;/Option>
     &lt;/data_defined_properties>
    &lt;/layer>
   &lt;/symbol>
  &lt;/background>
- &lt;shadow shadowDraw="0" shadowRadiusMapUnitScale="3x:0,0,0,0,0,0" shadowOffsetDist="1" shadowRadius="1.5" shadowScale="100" shadowUnder="0" shadowRadiusUnit="MM" shadowBlendMode="6" shadowOffsetMapUnitScale="3x:0,0,0,0,0,0" shadowOpacity="0.69999999999999996" shadowOffsetUnit="MM" shadowColor="0,0,0,255" shadowOffsetGlobal="1" shadowOffsetAngle="135" shadowRadiusAlphaOnly="0"/>
+ &lt;shadow shadowOffsetGlobal="1" shadowOffsetUnit="MM" shadowRadiusAlphaOnly="0" shadowOffsetAngle="135" shadowRadiusUnit="MM" shadowRadiusMapUnitScale="3x:0,0,0,0,0,0" shadowRadius="1.5" shadowBlendMode="6" shadowOffsetDist="1" shadowUnder="0" shadowScale="100" shadowOffsetMapUnitScale="3x:0,0,0,0,0,0" shadowDraw="0" shadowOpacity="0.69999999999999996" shadowColor="0,0,0,255"/>
  &lt;dd_properties>
   &lt;Option type="Map">
-   &lt;Option type="QString" name="name" value=""/>
+   &lt;Option value="" type="QString" name="name"/>
    &lt;Option name="properties"/>
-   &lt;Option type="QString" name="type" value="collection"/>
+   &lt;Option value="collection" type="QString" name="type"/>
   &lt;/Option>
  &lt;/dd_properties>
 &lt;/text-style>
 </Font>
       <Label type="QString">©Axelspace：衛星画像
 ©全国Q地図・Q地図タイル：衛星画像タイルデータ
-©東京大学渡邉英徳研究室：SAR image tilesets of Noto Peninsula earthquake 2024、©Umbra：SAR Image, Noto Peninsula Earthquake
+©東京大学渡邉英徳研究室：SAR image tilesets of Noto Peninsula earthquake 2024、©Umbra：SAR Image, Noto Peninsula Earthquake, ASNARO-2 SAR image tilesets of Noto Peninsula earthquake 2024, © JEOSS / Original Image © NEC Corporation
 ©国土地理院：地理院タイル、空中写真正射投影画像、斜面崩壊･堆積データ、「だいち2号」観測データの解析による海岸線の変化
 ©国土交通省：国土数値情報、令和6年能登半島地震　能登半島　道路復旧の状況
 ©農林水産省：「筆ポリゴンデータ（2022年度公開）（2022年11月15日に利用）」、農業用ため池一覧（令和5年3月末時点）
