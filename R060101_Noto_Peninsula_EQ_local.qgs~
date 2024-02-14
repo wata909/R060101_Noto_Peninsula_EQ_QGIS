@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis version="3.28.15-Firenze" saveUser="iwasaki" saveUserFull="iwasaki" saveDateTime="2024-02-14T16:38:19" projectname="">
+<qgis version="3.28.15-Firenze" saveUser="iwasaki" saveUserFull="iwasaki" saveDateTime="2024-02-14T16:38:30" projectname="">
   <homePath path=""/>
   <title></title>
   <transaction mode="Disabled"/>
@@ -1266,7 +1266,7 @@
         </customproperties>
       </layer-tree-layer>
     </layer-tree-group>
-    <layer-tree-group checked="Qt::Checked" expanded="1" groupLayer="" name="全国Q地図・Q地図タイル">
+    <layer-tree-group checked="Qt::Checked" expanded="0" groupLayer="" name="全国Q地図・Q地図タイル">
       <customproperties>
         <Option/>
       </customproperties>
@@ -2491,7 +2491,7 @@
         </filegroup>
       </legendlayer>
     </legendgroup>
-    <legendgroup open="true" checked="Qt::Checked" name="全国Q地図・Q地図タイル">
+    <legendgroup open="false" checked="Qt::Checked" name="全国Q地図・Q地図タイル">
       <legendlayer open="true" checked="Qt::Unchecked" drawingOrder="-1" name="全国Q地図・発災前地形データ" showFeatureCount="0">
         <filegroup open="true" hidden="false">
           <legendlayerfile isInOverview="0" visible="0" layerid="_f3dc277c_8ce3_4680_af83_075f6073d415"/>
